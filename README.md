@@ -4,7 +4,7 @@ Catchit is the ultimate, high-performance free video downloader for Android. It 
 
 Turn the complex process of video downloading into a clean, single-click experience.
 
-🌐 Official Website: https://catchit.app/
+🌐 Official Website: https://thegem001.github.io/catchit-site/
 
 🚀 Key Features
 
@@ -38,7 +38,9 @@ Catch It: Hit the button and let the engine do the work.
 
 Download the latest stable release directly from our repository:
 
-👉 Download Catchit v1.0 Stable (APK)
+Download Catchit v1.0 Stable (APK)
+
+👉 https://github.com/TheGem001/catchit-site/releases/download/Android/catchit.apk
 
 🛡️ Security Verification
 
